@@ -7,4 +7,4 @@
    exit. Allows the user to exit the program
 
 It's worth noting that this code can be improved by creating custom functions to reduce code repititoin, handling file operations more efficiently, and providing better error handling. 
-Additionally, the code may have issues when the file list.txt does not exist or when the user tries to edit or delete items that do not exist in the list
+Additionally, the code may have issues when the file list.txt does not exist or when the user tries to edit or delete items that do not exist in the list.
